@@ -19,8 +19,10 @@ public class Participante {
     
     private String nombre;
     private String email;
+    private String cedula;
     private String celular;
     private String celular2;
+    private String sede;
     
     @Temporal(TemporalType.TIMESTAMP)
     private Date fecha_registro;
@@ -29,14 +31,17 @@ public class Participante {
     public Participante() {
     }
 
-    public Participante(String nombre, String email, String celular, String celular2, Date fecha_registro) {
-        this.nombre = nombre;
-        this.email = email;
-        this.celular = celular;
-        this.celular2 = celular2;
-        this.fecha_registro = fecha_registro;
+    public String getSede() {
+        return sede;
     }
 
+    public void setSede(String sede) {
+        this.sede = sede;
+    }
+
+
+
+   
     public Long getIdParticipante() {
         return idParticipante;
     }
@@ -83,6 +88,14 @@ public class Participante {
 
     public void setFecha_registro(Date fecha_registro) {
         this.fecha_registro = fecha_registro;
+    }
+
+    public String getCedula() {
+        return cedula;
+    }
+
+    public void setCedula(String cedula) {
+        this.cedula = cedula;
     }
 
     
