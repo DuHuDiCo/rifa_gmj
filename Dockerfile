@@ -9,7 +9,7 @@ ENV XMX=$XMX
 VOLUME /tmp
 
 
-EXPOSE 85000
+EXPOSE 8900
 
 ADD ./target/rifa_bakend-0.0.1-SNAPSHOT.jar rifa_bakend.jar
 
