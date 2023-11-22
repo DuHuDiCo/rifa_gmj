@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping("/api/v1/participante")
-@CrossOrigin(origins = {"http://localhost:4200/", "http://almacenelectrohogar.com/", "https://pagafacil.almacenelectrohogar.com/", "https://rifa.almacenelectrohogar.com/"})
+@CrossOrigin(origins = {"http://localhost:4200/", "http://almacenelectrohogar.com/", "https://pagafacil.almacenelectrohogar.com/", "https://rifa.almacenelectrohogar.com/", "*"})
 public class ParticipanteController {
     
     
