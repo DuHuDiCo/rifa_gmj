@@ -1,6 +1,6 @@
-/home/electrohogar-admin/electrohogarsoftware/rifaGmj/rifa_gmj/src/main/java/com/gmjHogar/rifa_bakend/services/ParticipanteService.java
-/home/electrohogar-admin/electrohogarsoftware/rifaGmj/rifa_gmj/src/main/java/com/gmjHogar/rifa_bakend/controllers/ParticipanteController.java
-/home/electrohogar-admin/electrohogarsoftware/rifaGmj/rifa_gmj/src/main/java/com/gmjHogar/rifa_bakend/repository/ParticipanteRepository.java
-/home/electrohogar-admin/electrohogarsoftware/rifaGmj/rifa_gmj/src/main/java/com/gmjHogar/rifa_bakend/models/Participante.java
-/home/electrohogar-admin/electrohogarsoftware/rifaGmj/rifa_gmj/src/main/java/com/gmjHogar/rifa_bakend/RifaBakendApplication.java
-/home/electrohogar-admin/electrohogarsoftware/rifaGmj/rifa_gmj/src/main/java/com/gmjHogar/rifa_bakend/utils/Functions.java
+J:\Duvan Humberto Diaz Contreras\ElectroHogar\GMJHOGAR_SOFTWARE\rifa_backend\rifa_gmj\src\main\java\com\gmjHogar\rifa_bakend\controllers\ParticipanteController.java
+J:\Duvan Humberto Diaz Contreras\ElectroHogar\GMJHOGAR_SOFTWARE\rifa_backend\rifa_gmj\src\main\java\com\gmjHogar\rifa_bakend\RifaBakendApplication.java
+J:\Duvan Humberto Diaz Contreras\ElectroHogar\GMJHOGAR_SOFTWARE\rifa_backend\rifa_gmj\src\main\java\com\gmjHogar\rifa_bakend\services\ParticipanteService.java
+J:\Duvan Humberto Diaz Contreras\ElectroHogar\GMJHOGAR_SOFTWARE\rifa_backend\rifa_gmj\src\main\java\com\gmjHogar\rifa_bakend\models\Participante.java
+J:\Duvan Humberto Diaz Contreras\ElectroHogar\GMJHOGAR_SOFTWARE\rifa_backend\rifa_gmj\src\main\java\com\gmjHogar\rifa_bakend\utils\Functions.java
+J:\Duvan Humberto Diaz Contreras\ElectroHogar\GMJHOGAR_SOFTWARE\rifa_backend\rifa_gmj\src\main\java\com\gmjHogar\rifa_bakend\repository\ParticipanteRepository.java

@@ -1,6 +1,6 @@
-com/gmjHogar/rifa_bakend/RifaBakendApplication.class
-com/gmjHogar/rifa_bakend/controllers/ParticipanteController.class
-com/gmjHogar/rifa_bakend/models/Participante.class
-com/gmjHogar/rifa_bakend/utils/Functions.class
-com/gmjHogar/rifa_bakend/services/ParticipanteService.class
-com/gmjHogar/rifa_bakend/repository/ParticipanteRepository.class
+com\gmjHogar\rifa_bakend\controllers\ParticipanteController.class
+com\gmjHogar\rifa_bakend\models\Participante.class
+com\gmjHogar\rifa_bakend\repository\ParticipanteRepository.class
+com\gmjHogar\rifa_bakend\services\ParticipanteService.class
+com\gmjHogar\rifa_bakend\RifaBakendApplication.class
+com\gmjHogar\rifa_bakend\utils\Functions.class
