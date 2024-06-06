@@ -11,22 +11,21 @@ import javax.persistence.TemporalType;
 
 @Entity
 public class Participante {
-    
-    
+
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long idParticipante;
-    
+
     private String nombre;
     private String email;
     private String cedula;
     private String celular;
     private String celular2;
+    private String referenciaProducto;
     private String sede;
-    
+
     @Temporal(TemporalType.TIMESTAMP)
     private Date fecha_registro;
-    
 
     public Participante() {
     }
@@ -39,9 +38,6 @@ public class Participante {
         this.sede = sede;
     }
 
-
-
-   
     public Long getIdParticipante() {
         return idParticipante;
     }
@@ -98,9 +94,12 @@ public class Participante {
         this.cedula = cedula;
     }
 
-    
-    
-    
-    
-    
+    public String getReferenciaProducto() {
+        return referenciaProducto;
+    }
+
+    public void setReferenciaProducto(String referenciaProducto) {
+        this.referenciaProducto = referenciaProducto;
+    }
+
 }
